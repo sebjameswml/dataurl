@@ -1,3 +1,5 @@
+Addition
+
 # Data URL Schemes for Go [![wercker status](https://app.wercker.com/status/6f9a2e144dfcc59e862c52459b452928/s "wercker status")](https://app.wercker.com/project/bykey/6f9a2e144dfcc59e862c52459b452928) [![GoDoc](https://godoc.org/github.com/vincent-petithory/dataurl?status.png)](https://godoc.org/github.com/vincent-petithory/dataurl)
 
 This package parses and generates Data URL Schemes for the Go language, according to [RFC 2397](http://tools.ietf.org/html/rfc2397).
